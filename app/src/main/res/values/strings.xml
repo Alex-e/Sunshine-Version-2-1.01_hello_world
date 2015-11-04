@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alex`s Great Weather</string>
+
+    <string name="action_settings">act Settings</string>
+    <string name="action_map">Map Location</string>
+    <string name="action_refresh" translatable="false">Refresh</string>
+    <string name="action_share">Share</string>
+
+    <string name="title_activity_detail">Details</string>
+    <string name="title_activity_settings">title Settings</string>
+
+    <!-- settings-->
+    <string name="pref_location_label">Set location label</string>
+    <string name="pref_location_key" translatable="false">location key</string>
+    <string name="pref_location_default" translatable="false">Kiev,ua</string>
+
+    <string name="pref_units_label">Choose units</string>
+    <string name="pref_units_key" translatable="false">units key</string>
+    <string name="pref_units_metric" translatable="false">metric</string>
+    <string name="pref_units_imperial" translatable="false">imperial</string>
+
+    <string name="pref_units_label_metric">Metric</string>
+    <string name="pref_units_label_imperial">Imperial</string>
+
+
+</resources>
